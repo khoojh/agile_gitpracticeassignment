@@ -7,3 +7,6 @@
 This article is interesting because it argues against our common intuition of what we know about the financial capabilities of a pro-athlete as opposed to that of a software engineer.
 
 ***
+
+> Interesting. Now I'm motivated to become a software engineer than becoming a pro athelete.
+> - Wei Jie
