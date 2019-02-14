@@ -8,5 +8,5 @@ This article is interesting because it argues against our common intuition of wh
 
 ***
 
-> Interesting. Now I'm motivated to become a software engineer than becoming a pro athelete.
+> Interesting. Now I'm motivated to become a software engineer than becoming a pro athelete. Function of lifetime utility is an interesting concept to apply from Economics.
 > - Wei Jie
